@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veankata-krishnan&label=Profile%20views&color=0e75b6&style=flat" alt="veankata-krishnan" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Data Strucutres**
+
+- 🤝 I’m looking for help with **Quantum Computing**
+
+- 💬 Ask me about **python and C**
 
 - 📫 How to reach me **veankatakrishnan2004@gmail.com**
+
+- ⚡ Fun fact **I think my humor is broken**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +22,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
